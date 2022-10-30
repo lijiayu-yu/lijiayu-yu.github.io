@@ -5,8 +5,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="/%5Bobject%20Object%5D/hello-world/"/>
-    <url>/%5Bobject%20Object%5D/hello-world/</url>
+    <link href="/hello-world/"/>
+    <url>/hello-world/</url>
     
     <content type="html"><![CDATA[]]></content>
     
